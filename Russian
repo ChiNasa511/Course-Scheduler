@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE>
 <html>
 
@@ -56,7 +57,7 @@
 </body>
 </html>
         </li>
-      <li class="table-view-cell"> <h4>Required Courses</h4>
+      <li class="table-view-cell"> <h4>Required Courses:</h4>
       <html lang="en">
 <head>
 <div class="container">
@@ -87,12 +88,16 @@
     <div class="checkbox">
       <label><input type="checkbox" value="" id="russ044">RUSS 044- Advanced Russian</label>
     </div>
-    <p>two of the following:</p>
+    <p>One of the following:</p>
     <div class="checkbox">
       <label><input type="checkbox" value="" id="rust076">RUST 076- Russian Short Fiction: Tales of Passion, Crime, Wars and Revolutions</label>
+ 
+  <div>
       <label><input type="checkbox" value="" id="rust105">RUST 105-Russian Literature 1861-1917</label>
     </div>
+    <div>
     <p> One additional course in 19th-century literature in translation, one additional course in 20th-century literature or culture in translation and one other course from the department’s offerings.</p>
+</div>
     <p> Three of the following seminars taught in Russian</p>
 
     <div class="checkbox">
