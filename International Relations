@@ -1,0 +1,144 @@
+<!DOCTYPE>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Majors</title>
+
+  <!-- Sets initial viewport load and disables zooming -->
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+  <!-- Make prototype chrome-less once bookmarked to phone's home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Include Ratchet CSS -->
+  <link href="css/ratchet.min.css" rel="stylesheet">
+    
+   <!-- Include jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+  <!-- Include our script -->
+  <script src="js/majors.js"></script>    
+
+</head>
+
+<body>
+
+  <!-- Our content will go here -->
+  <header class="bar bar-nav">
+    <a href="index.html">
+      <button class="btn pull-left">
+        Majors List
+      </button>
+    </a>
+    <h1 class="title">
+      International Relations Major Requirements
+  </header>
+
+  <div class="content">
+    <ul class="table-view">
+        <li class="table-view-cell">
+            <h4>Prerequisites</h4>
+        <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="checkbox">
+      <label><input type="checkbox" value="">ECON051 - Principles: Macroecononmics</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">ECON052PO - Principles: Microeconomics</label>
+    </div>
+</div>
+
+</body>
+</html>
+          </a>
+        </li>
+      <li class="table-view-cell"> <h4>Required Courses</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">POLI008PO - Introduction to International Relations</label>
+    </div>
+  <div class="checkbox">
+      <label><input type="checkbox" value="">POLI007PO - U.S. Foreign Policy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">ECON123PO - International Economics
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">POLI090PO - Statistics for Politics and International Relations</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">IR100PO - Intermediate IR seminar</label>
+    </div>
+    <p>Choose one of the following modern history courses:</p>
+   <div class="checkbox">
+      <label><input type="checkbox" value="">HIST071PO - Modern Europe: Since 1789</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">HIST061CM - The New Asia: China, Japan, India, and Indonesia in the Modern Era</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">HIST032CH - Latin America Since Independence</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">HISTo41AF - History of Africa from 1800</label>
+    </div>
+    <p>Two additional courses must be chosen from the above categories with advisor approval.</p>
+      <p>Students must take up to three years of a foreign language or two years of two different foreign languages.</p>
+        <p>Students must study abroad for a semester.</p>
+    
+    
+  </form>
+</div>
+
+</body>
+</html>
+      </li>
+      <li class="table-view-cell"> <h4>Senior Exercises</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">IR190PO - Senior IR Seminar</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">IR191PO - Senior Thesis</label>
+    </div>
+      </li>
+    </ul>
+    <button class="btn btn-positive btn-block order">Savefmajor</button>
+  </div>
+
+
+</body>
+</html>
