@@ -38,7 +38,7 @@
   <div class="content">
     <ul class="table-view">
         <li class="table-view-cell">
-          <h4>Prerequisites</h4>
+        
             <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -51,10 +51,7 @@
 
 <div class="container">
   <form role="form">
-    <div class="checkbox">
-      <label><input type="checkbox" value="">PHYS 070- Spacetime,QUanta and Entropy with Laboratory</label>
-    </div>
-</div>
+    
 
 </body>
 </html>
@@ -70,19 +67,12 @@
 </head>
 <body>
 
+</div>
 <div class="container">
   <form role="form">
+    <p> Required Courses </p>
     <div class="checkbox">
-      <label><input type="checkbox" value="">PHYS 071</label>
-    </div>
-    <div class="checkbox">
-      <label><input type="checkbox" value="">PHYS 072</label>
-    </div>
-    <div class="checkbox">
-      <label><input type="checkbox" value="">PHYS 041</label>
-    </div>
-    <div class="checkbox">
-      <label><input type="checkbox" value="">PHY 042PO </label>
+      <label><input type="checkbox" value="">PHYS 070- Spacetime,Quanta and Entropy with Laboratory</label>
     </div>
     <div class="checkbox">
       <label><input type="checkbox" value="">PHYS 101 - Foundations of Modern Physics with Laboratory
@@ -128,7 +118,7 @@
       <label><input type="checkbox" value="">ENGR 111 HM- Engineering Clinic I</label>
     </div>
     </div>
-    <label> At least thre core Physics courses</label>
+    <p> At least three core Physics courses</p>
      <div class="checkbox">
       <label><input type="checkbox" value="">PHYS 125- Mechanics</label>
     </div>
@@ -140,7 +130,10 @@
     </div>
      <div class="checkbox">
       <label><input type="checkbox" value="">PHYS 175- Thermodynamics and Statistical Mechanics</label>
-      <label> One other course chosen from core and upper-division elective courses</label>
+       </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">One other course chosen from core and upper division elective courses</label>
+    </div>
        <div class="checkbox">
       <label><input type="checkbox" value="">PHYS 174-Contemporary Experimental Physics</label>
     </div>
