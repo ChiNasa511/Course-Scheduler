@@ -1,0 +1,155 @@
+<!DOCTYPE>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Majors</title>
+
+  <!-- Sets initial viewport load and disables zooming -->
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+  <!-- Make prototype chrome-less once bookmarked to phone's home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Include Ratchet CSS -->
+  <link href="css/ratchet.min.css" rel="stylesheet">
+    
+   <!-- Include jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+  <!-- Include our script -->
+  <script src="js/majors.js"></script>    
+
+</head>
+
+<body>
+
+  <!-- Our content will go here -->
+  <header class="bar bar-nav">
+    <a href="index.html">
+      <button class="btn pull-left">
+        Majors List
+      </button>
+    </a>
+    <h1 class="title">
+      Molecular Biology Major Requirements
+  </header>
+
+  <div class="content">
+    <ul class="table-view">
+        <li class="table-view-cell">
+            <h4>Prerequisites</h4>
+        <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <p>None</p>
+</div>
+
+</body>
+</html>
+          </a>
+        </li>
+      <li class="table-view-cell"> <h4>Required Courses</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">BIOL040PO - Introductory Genetics with Laboratory</label>
+    </div>
+  <div class="checkbox">
+      <label><input type="checkbox" value="">BIOL041PO - Intro Cell Chemistry and Cell Biology with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM001APO - General Chemistry with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM001BPO - General Chemistry with Laboratory or CHEM051PO - General Chemistry with Laboratory Accelerated</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM110APO - Organic Chemistry with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM110BPO - Organic Chemistry with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS041PO - General Physics with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MATH030PO - Calculus I</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MATH031PO - Calculus II</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">BIOL163PO - Advanced Cell Biology with Laboratory</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM115PO - Biochemistry with Laboratory or both CHEM182HM - Chemistry in Living Systems and CHEM184HM - Methods in Biochemistry</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM156PO - Physical Chemistry in Molecular Biology</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">MOBI188PO - Molecular Biology Laboratory</label>
+    </div>
+    <p>One of the following may be used as a substitute for the required math classes if a student has completed AP Calc AB or higher:</p>
+   <div class="checkbox">
+      <label><input type="checkbox" value="">MATH032SPO - Calculus III with Applications to the Life Sciences Lab</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MATH058BPO - Introduction to Biostatistics with Lab</label>
+    </div>
+    
+    
+    
+  </form>
+</div>
+
+</body>
+</html>
+      </li>
+      <li class="table-view-cell"> <h4>Senior Exercises</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MOBI194APO - Experimental Senior Thesis</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MOBI194BPO - Experimental Senior Thesis and MOBI194APO - Experimental Senior Thesis or MOBI191APO - Senior Library Thesis - Research Grant Proposal and MOBI191BPO - Senior Library Thesis - Research Grant Proposal.</label>
+    </div>
+      </li>
+    </ul>
+    <button class="btn btn-positive btn-block order">Savefmajor</button>
+  </div>
+
+
+</body>
+</html>
