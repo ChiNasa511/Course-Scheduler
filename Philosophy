@@ -1,0 +1,187 @@
+<!DOCTYPE>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Majors</title>
+
+  <!-- Sets initial viewport load and disables zooming -->
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+  <!-- Make prototype chrome-less once bookmarked to phone's home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Include Ratchet CSS -->
+  <link href="css/ratchet.min.css" rel="stylesheet">
+    
+   <!-- Include jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+  <!-- Include our script -->
+  <script src="js/majors.js"></script>    
+
+</head>
+
+<body>
+
+  <!-- Our content will go here -->
+  <header class="bar bar-nav">
+    <a href="index.html">
+      <button class="btn pull-left">
+        Majors List
+      </button>
+    </a>
+    <h1 class="title">
+      Philosophy Major Requirements
+  </header>
+
+  <div class="content">
+    <ul class="table-view">
+        <li class="table-view-cell">
+            <h4>Prerequisites</h4>
+        <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <p>None</p>
+</div>
+
+</body>
+</html>
+          </a>
+        </li>
+      <li class="table-view-cell"> <h4>Required Courses</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL060PO - Logic</label>
+    </div>
+    <p>Choose two of the following metaphysics, epistemology, and science courses:</p>
+   <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL030JT - Intro to Knowledge, Mind, and Existence</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL080PO - Philosophy of Mind</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL081PO - Epistemology</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL103PO - Philosophy of Science: Historical Survey</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL104PO - Philosophy of Science: Topical Survey</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL106PO - Philosophy of Biology: Historical Survey</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL120PO - Metaphysics</label>
+    </div>
+    <p>Choose two of the following values courses:</p>
+    <div class="checkbox">
+      <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL031PO - Ethical Theory: Ancient to Early Modern</label>
+    </div>
+      <label><input type="checkbox" value="">PHIL032PO - Ethical Theory: Contemporary</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL033PO - Social and Political Philosophy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL034PO - Philosophy of Law</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL035PO - Well-Being and Autonomy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL038PO - Bioethics</label>
+    </div>
+        <p>Choose two of the following history courses:</p>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL040PO - Ancient Philosophy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL042PO - History of Modern Philosophy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL043PO - Continental Thought</label>
+    </div>
+    <p>Choose one of the following seminar courses:</p>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL185APO - Topics in Metaphysics</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL185BPO - Topics in Philosophy of Law, and Law and Society</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL185LPO - Topics in Epistemology, Metaphysics, and the Philosophy of the Mind</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL185PPO - Topics in Value Theory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL185SPO - Topics in Social and Political Philosophy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL185TPO - Philosophy of Art and Aesthetics</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL186HPO - Topics in History of Modern Philosophy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL186KPO - Kant</label>
+    </div>
+    <p>Students must take one additional course from any of the above areas.</p>
+    
+  </form>
+</div>
+
+</body>
+</html>
+      </li>
+      <li class="table-view-cell"> <h4>Senior Exercises</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL190PO - Senior Literature Review</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHIL191PO - Senior Thesis (optional but strongly recommended)</label>
+    </div>
+      </li>
+    </ul>
+    <button class="btn btn-positive btn-block order">Savefmajor</button>
+  </div>
+
+
+</body>
+</html>
