@@ -1,0 +1,175 @@
+<!DOCTYPE>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Majors</title>
+
+  <!-- Sets initial viewport load and disables zooming -->
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+  <!-- Make prototype chrome-less once bookmarked to phone's home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Include Ratchet CSS -->
+  <link href="css/ratchet.min.css" rel="stylesheet">
+    
+   <!-- Include jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+  <!-- Include our script -->
+  <script src="js/majors.js"></script>    
+
+</head>
+
+<body>
+
+  <!-- Our content will go here -->
+  <header class="bar bar-nav">
+    <a href="index.html">
+      <button class="btn pull-left">
+        Majors List
+      </button>
+    <h1 class="title">
+      Physics Major Requirements
+  </header>
+
+  <div class="content">
+    <ul class="table-view">
+        <li class="table-view-cell">
+          <h4>Prerequisites</h4>
+            <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 070- Spacetime,QUanta and Entropy with Laboratory</label>
+    </div>
+</div>
+
+</body>
+</html>
+        </li>
+      <li class="table-view-cell"> <h4>Required Courses</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 071</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 072</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 041</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHY 042PO </label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 101 - Foundations of Modern Physics with Laboratory
+</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MATH 060- Linear Algebra</label>
+    </div>
+    <p> Choose one of the following:</p>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MATH 032-Calculus III</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">MATH 067 Vector Calculus</label>
+    </div>
+    <p> Choose one of the following:</p>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">ASTR 051- Advanced introductory Astronomy</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">ASTR 101- Techniques in Observational Astrophysics</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">BIOL 040- Introductory Genetics with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM 01A - General Chemistry with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM 01B- General Chemistry with Laboratory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">CHEM 051 General Chemistry with Laboratory Accelerated</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">ANTH 155 - Globalization</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">ENGR 04 HM- Introduction to Engineering Design and Manufacturing</label>
+       <div class="checkbox">
+      <label><input type="checkbox" value="">ENGR 080 HM- Experimental Engineering</label>
+       <div class="checkbox">
+      <label><input type="checkbox" value="">ENGR 111 HM- Engineering Clinic I</label>
+    </div>
+    </div>
+    <label> At least thre core Physics courses</label>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 125- Mechanics</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">PHYSC 142- Electricity and Magnetism</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 170- Quantum Mechanics</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 175- Thermodynamics and Statistical Mechanics</label>
+      <label> One other course chosen from core and upper-division elective courses</label>
+       <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 174-Contemporary Experimental Physics</label>
+    </div>
+
+    </div>
+    </div>
+  </form>
+</div>
+
+</body>
+</html>
+      </li>
+      <li class="table-view-cell"> <h4>Senior Exercises</h4>
+        <html lang="en">
+        <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 190- Senior Seminar </label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 193- Senior Comprehensive Examination</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">PHYS 191- Senior Thesis</label>
+    </div>
+      </li>
+    </ul>
+    
+    <button class="btn btn-positive btn-block order">Save</button>
+  </div>
+
+
+</body>
+</html>
