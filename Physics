@@ -40,6 +40,15 @@
         <li class="table-view-cell">
         
             <html lang="en">
+
+  <div class="content">
+    <ul class="table-view">
+        <li class="table-view-cell">
+            <h4>Prerequisites</h4>
+          <html lang="en">
+          <div class="checkbox">
+      <label><input type="checkbox" value="">MATH 060- Linear Algebra</label>
+    </div>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -70,16 +79,12 @@
 </div>
 <div class="container">
   <form role="form">
-    <p> Required Courses </p>
     <div class="checkbox">
       <label><input type="checkbox" value="">PHYS 070- Spacetime,Quanta and Entropy with Laboratory</label>
     </div>
     <div class="checkbox">
       <label><input type="checkbox" value="">PHYS 101 - Foundations of Modern Physics with Laboratory
 </label>
-    </div>
-    <div class="checkbox">
-      <label><input type="checkbox" value="">MATH 060- Linear Algebra</label>
     </div>
     <p> Choose one of the following:</p>
     <div class="checkbox">
@@ -106,9 +111,6 @@
     </div>
     <div class="checkbox">
       <label><input type="checkbox" value="">CHEM 051 General Chemistry with Laboratory Accelerated</label>
-    </div>
-    <div class="checkbox">
-      <label><input type="checkbox" value="">ANTH 155 - Globalization</label>
     </div>
     <div class="checkbox">
       <label><input type="checkbox" value="">ENGR 04 HM- Introduction to Engineering Design and Manufacturing</label>
