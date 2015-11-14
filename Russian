@@ -1,0 +1,145 @@
+
+<!DOCTYPE>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Majors</title>
+
+  <!-- Sets initial viewport load and disables zooming -->
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+  <!-- Make prototype chrome-less once bookmarked to phone's home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Include Ratchet CSS -->
+  <link href="css/ratchet.min.css" rel="stylesheet">
+    
+   <!-- Include jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+  <!-- Include our script -->
+  <script src="js/majors.js"></script>    
+
+</head>
+
+<body>
+
+  <!-- Our content will go here -->
+  <header class="bar bar-nav">
+    <a href="index.html">
+      <button class="btn pull-left">
+        Majors List
+      </button>
+    </a>
+    <h1 class="title">
+      Russian Major Requirements
+  </header>
+
+  <div class="content">
+    <ul class="table-view">
+        <li class="table-view-cell">
+            <h4>Prerequisites</h4>
+          <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+
+</body>
+</html>
+        </li>
+      <li class="table-view-cell"> <h4>Required Courses</h4>
+      <html lang="en">
+<head>
+<div class="container">
+  <form role="form">
+   
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+<p> Required Courses</p>
+<div class="container">
+  <form role="form">
+  	 <div class="checkbox">
+      <label><input type="checkbox" value= "" id="russ001">RUSS 001- Elementary Russian</label>
+    </div>
+</div>
+
+    <div class="checkbox">
+      <label><input type="checkbox" value= "" id="russ002">RUSS 002- Elementary Russian</label>
+      
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ033">RUSS 033- Intermediate Russian</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ044">RUSS 044- Advanced Russian</label>
+    </div>
+    <p>two of the following:</p>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="rust076">RUST 076- Russian Short Fiction: Tales of Passion, Crime, Wars and Revolutions</label>
+      <label><input type="checkbox" value="" id="rust105">RUST 105-Russian Literature 1861-1917</label>
+    </div>
+    <p> One additional course in 19th-century literature in translation, one additional course in 20th-century literature or culture in translation and one other course from the department’s offerings.</p>
+    <p> Three of the following seminars taught in Russian</p>
+
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ180"> RUSS 180-Readings in 19th Century Russian Literature</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ181">RUSS 181- Readings in Modern Russian Literature</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ182">RUSS 182- Post-Soviet Russian Culture and Society</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ183">RUSS 183- Russian Comedy in Film and Fiction</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ186">RUSS 186- Animated Russia: Cartoons and the Language of Culture</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ187">RUSS 187-Everyday Life in the USSR</label>
+    </div>
+      </li>
+      <div class="checkbox">
+      <label><input type="checkbox" value="" id="russ090">RUSS 090- Research Seminar</label>
+    </div>
+      <li class="table-view-cell"> <h4>Senior Exercises</h4>
+         <div class="checkbox">
+         <label> choose one of the following</label>
+      <label><input type="checkbox" value="" id="russ193">RUSS 193- Comprehensive Examination</label>
+    </div>
+     <div class="checkbox">
+      <label><input type="checkbox" value="" id="rus191">RUSS 191- Senior Thesis</label>
+    </div>
+      </li>
+    </ul>
+    <button class="btn btn-positive btn-block order">Save</button>
+  </div>
+<script type="text/javascript">
+if (typeof(Storage) != "undefined") {
+  localStorage.setItem("checkbox, soc150");
+  document.getElementById("result").innerHTML = 
+  localStorage.getItem("checkbox");
+  else {
+  Sorry, your browser does not support Web Storage";
+  }
+}
+  
+  </script>
+
+</body>
+</html>
