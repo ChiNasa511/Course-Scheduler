@@ -1,0 +1,126 @@
+<!DOCTYPE>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Majors</title>
+
+  <!-- Sets initial viewport load and disables zooming -->
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+  <!-- Make prototype chrome-less once bookmarked to phone's home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <!-- Include Ratchet CSS -->
+  <link href="css/ratchet.min.css" rel="stylesheet">
+    
+   <!-- Include jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+  <!-- Include our script -->
+  <script src="js/majors.js"></script>    
+
+</head>
+
+<body>
+
+  <!-- Our content will go here -->
+  <header class="bar bar-nav">
+    <a href="index.html">
+      <button class="btn pull-left">
+        Majors List
+      </button>
+    </a>
+    <h1 class="title">
+      Gender and Women's Studies Major Requirements
+  </header>
+
+  <div class="content">
+    <ul class="table-view">
+        <li class="table-view-cell">
+            <h4>Prerequisites</h4>
+        <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <p>None</p>
+</div>
+
+</body>
+</html>
+          </a>
+        </li>
+      <li class="table-view-cell"> <h4>Required Courses</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">GWS026PO - Introduction to Women's Studies or FGSS026SC - Intro to Feminist, Gender, and Sexuality Studies or FGSS036SC: Introduction to Queer Studies</label>
+    </div>
+  <div class="checkbox">
+      <label><input type="checkbox" value="">GWS181PO - Feminisms in Community Engagement: Bridging Theory with Praxis Community Partnerships (CP)</label>
+    </div>
+    <p>Choose two of the following feminist theory courses:</p>
+   <div class="checkbox">
+      <label><input type="checkbox" value="">GWS180PO - Queer and Feminist Theories</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">LIT166CM - Feminist Theory</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">ARHI186LPO - Critical Race Theory, Representation, and the Rule of Law</label>
+    </div>
+  
+    <p>The student can take substitutes for any of these classes with advisor approval.</p>
+     <p>Three additional electives in an ethnic studies program are required.</p>
+    
+  </form>
+</div>
+
+</body>
+</html>
+      </li>
+      <li class="table-view-cell"> <h4>Senior Exercises</h4>
+      <html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <form role="form">
+    <div class="checkbox">
+      <label><input type="checkbox" value="">GWS190PO - Senior Seminar</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">GWS191PO - Senior Thesis</label>
+    </div>
+      </li>
+    </ul>
+    <button class="btn btn-positive btn-block order">Savefmajor</button>
+  </div>
+
+
+</body>
+</html>
